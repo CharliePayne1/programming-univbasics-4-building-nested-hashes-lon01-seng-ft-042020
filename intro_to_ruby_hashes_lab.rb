@@ -30,7 +30,7 @@ nested_hash = {}
       reading_railroad: {},
       pennsylvania_railroad: {},
       b_and_o_railroad: {},
-      shortline_railroadd: {}
+      shortline_railroad: {}
     }
   }
   nested_hash
